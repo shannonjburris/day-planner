@@ -5,4 +5,4 @@ This day scheduler allows users to type into fields and save items to local stor
 Links: https://github.com/shannonjburris/day-planner
  https://shannonjburris.github.io/day-planner/
 
- Screenshot: 
+ Screenshot: ![screenshot](https://raw.githubusercontent.com/shannonjburris/day-planner/main/assets/images/Screen%20Shot%202021-07-01%20at%207.55.33%20PM.png)
